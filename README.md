@@ -7,11 +7,11 @@ Os dados utilizados neste projeto foram disponibilizados pelo professor.
 
 As principais ferramentas utilizadas foram: Power BI (para modelagem e visualização), SQL (para extração inicial dos dados) e Git/GitHub (para controle de versão e portfólio).
 
-As análises permitiram identificar que o time X tem um desempenho superior em casa e que o jogador Y é o líder em assistências nas últimas três temporadas.
+As análises permitiram identificar que o time X tem um desempenho superior em casa e que o jogador Y é o líder em assistências nas últimas vinte temporadas (2003 até 2022).
 
 ![Dashboard Geral](img/dashGeral.png)
 
-![Dashboard Times](img/dash.png)
+![Dashboard Times](img/dashTimes.png)
 
 
 ### Contato e Portfólio seguido de [Meu LinkedIn](https://www.linkedin.com/in/lucasvillarinhos)
